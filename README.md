@@ -1,4 +1,4 @@
-# pass-gen
+# L33t password generator
 
 ## Project setup
 ```
